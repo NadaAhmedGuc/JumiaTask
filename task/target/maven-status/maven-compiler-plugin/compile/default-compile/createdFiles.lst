@@ -1,0 +1,9 @@
+com\jumia\interview\task\repositories\CountryRepository.class
+com\jumia\interview\task\service\GetPhoneNumbersListService.class
+com\jumia\interview\task\model\entity\Status.class
+com\jumia\interview\task\facade\GetPhoneNumbersListFacade.class
+com\jumia\interview\task\model\entity\PhoneNumber.class
+com\jumia\interview\task\repositories\PhoneNumberRepository.class
+com\jumia\interview\task\TaskApplication.class
+com\jumia\interview\task\model\entity\Country.class
+com\jumia\interview\task\model\entity\PhoneNumberListResponseModel.class
